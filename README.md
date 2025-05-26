@@ -18,3 +18,11 @@ Generated Image
 Chaining Prompt
 ![Image](https://github.com/user-attachments/assets/5eb611ce-d490-4583-9fd8-b85c05aaef53)
 Prompt given to LLM(mistral-7b)
+![image](https://github.com/user-attachments/assets/36384a30-c0c6-48df-9bb0-77430bf7d27c)
+![image](https://github.com/user-attachments/assets/639411e1-1a0b-45c2-b626-d1b08eb94a73)
+Enhanced Prompt
+![image](https://github.com/user-attachments/assets/18f66657-e744-4498-bbd8-217e532dcf66)
+Image Generated
+![generated](https://github.com/user-attachments/assets/c59ca990-0448-4b36-b94e-aef6e2ecafcb)
+3D Model
+![image](https://github.com/user-attachments/assets/c037fc5e-93c1-4794-a53e-e4faafbf9f1d)
